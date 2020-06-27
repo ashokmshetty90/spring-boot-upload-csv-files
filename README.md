@@ -1,7 +1,4 @@
-# Spring Boot Upload/Download CSV Files with MySQL database example
-
-For more detail, please visit:
-> [Spring Boot: Upload CSV file to MySQL Database | Multipart File](https://bezkoder.com/spring-boot-upload-csv-file/)
+# Spring Boot Upload/Download CSV Files with Postgresql Database and Generate the PDF file for Each entry example
 
 ## Run Spring Boot application
 ```
